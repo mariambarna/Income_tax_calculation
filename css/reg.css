@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+.containerr{
+  height: auto;
+  width: 50vw;
+  padding-left: 5px;
+  padding-right: 20px;
+        font-size: 20px;
+        border: 1px solid rgb(64, 130, 109);
+        box-shadow: 0px 0px 20px rgb(64, 130, 109);
+        margin-left: 380px;
+
+    /*    background-color: #545871;*/
+        /* background: black; */
+        
+        margin-top: 100px;
+    background: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.7)),url('../image/favicon.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.reg input{
+        /* background:rgb(192, 233, 192); */
+        /* background:rgb(189, 223, 189); */
+        background: rgb(208,240,192);
+        /* width: 50px; */
+}
+
+ body {
+        margin: 0;
+        padding: 0;
+        background: url('../image/reg.jpg') repeat;
+        /* background-size: cover; */
+        /* font-family: sans-serif; */
+}
+h1{
+    margin-top: 35px;
+    text-transform: capitalize;
+    font-size: 50px;
+    color: rgb(64, 130, 109);
+    
+}
+
+
+
+

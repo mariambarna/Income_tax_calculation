@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url('../image/reg.jpg') repeat;
+    /* background-size: cover; */
+    /* font-family: sans-serif; */
+}
+.contain .card-group{
+   /* height:50vh; */
+   width: 60vw;
+    margin-top: 130px;
+    margin-left: 300px;
+    font-size: 20px;
+    border: 1px solid rgb(64, 130, 109);
+   box-shadow: 0px 0px 20px rgb(64, 130, 109);
+}
+h2{
+    text-transform: capitalize;
+    font-size: 40px;
+    color: rgb(64, 130, 109);
+}
+.card-group input{
+    background: rgb(208,240,192);
+    
+}
+a{
+    text-decoration: none ;
+    color: rgb(64, 130, 109) ;
+}
